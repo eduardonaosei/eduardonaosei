@@ -1,5 +1,7 @@
 # 💫 About Me:
-Olá, eu sou Eduardo!<br> Escou cursando Progframador Full Stack na Escola SENAI.<br><br>🌱 Atualmente, estou cursando a liguagem HTML html5<br><br>🔭 Estou em processo de Aprendizagem.
+Olá, eu sou Eduardo!<br> Escou cursando Progframador Full Stack na Escola SENAI.<br>
+<br>🌱 Atualmente, estou cursando a liguagem HTML html5<br>
+<br>🔭 Estou em processo de Aprendizagem.
 
 <!-- GIF -->
 <p align="left">
