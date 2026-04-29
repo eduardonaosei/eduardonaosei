@@ -14,7 +14,7 @@ Here are some ideas<div id="user-content-toc">
 
   - 🌱 Currently, I am studying the HTML language. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I'm looking to specialize more and more in programming and I also want to learn other programming languages.
 </p>
 
 <!-- Dropdown -->
