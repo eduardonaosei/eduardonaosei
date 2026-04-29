@@ -10,7 +10,7 @@ Here are some ideas<div id="user-content-toc">
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Eduardo! I am a Full Stack student at SENAI.
 
   - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
