@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-♞ Olá, eu sou Eduardo!<br> 
+🧙‍♂️✨ Olá, eu sou Eduardo!<br> 
 
 🧠 Programador Full Stack
 
