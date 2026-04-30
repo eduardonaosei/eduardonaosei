@@ -1,5 +1,5 @@
-# 💫 About Me:
-♞ Olá, eu sou Eduardo!<br> 🚀 Sobre mim
+# 💫 Sobre Mim:
+♞ Olá, eu sou Eduardo!<br> 
 
 🧠 Desenvolvedor Full Stack
 
