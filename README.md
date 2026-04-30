@@ -1,11 +1,11 @@
 # 💫 Sobre Mim:
 ♞ Olá, eu sou Eduardo!<br> 
 
-🧠 Desenvolvedor Full Stack
+🧠 Programador Full Stack
 
 
 📚 Sempre aprendendo e evoluindo<br>
-<br>🔭 Estou em processo de Aprendizagem.
+<br>🔭 Estou em processo de Aprendizagem na Escola SENAI.
 
 <!-- GIF -->
 <p align="left">
