@@ -1,5 +1,5 @@
 # 💫 About Me:
-♞ Olá, eu sou Eduardo!<br> Escou cursando Progframador Full Stack na Escola SENAI.<br>
+♞ Olá, eu sou Eduardo!<br> Estou cursando Programador Full Stack na Escola SENAI.<br>
 <br>🔭 Estou em processo de Aprendizagem.♛
 
 <!-- GIF -->
